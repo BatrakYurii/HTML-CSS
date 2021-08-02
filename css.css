@@ -1,0 +1,9 @@
+tr:first-child, td:first-child{font-weight: bold;}
+
+.odd_background{
+    background-color: skyblue;
+}
+
+tr:nth-child(3n){
+    font:italic 110% serif;
+}
